@@ -1,5 +1,7 @@
 My Solution to [Loan Prediction Problem](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) on [Analytics Vidhya](https://www.analyticsvidhya.com/) using Python3.
 
+## [***View Solution (.ipynb)***](https://nbviewer.jupyter.org/github/akki3d76/Loan-Prediction-Problem/blob/master/LOAN%20PREDICTION.ipynb) 
+
 ## Problem Statement
 
 #### About Company
