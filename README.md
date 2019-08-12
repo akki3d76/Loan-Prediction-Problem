@@ -1,5 +1,3 @@
-
-# Data-Structures-using-Python
 My Solution to [Loan Prediction Problem](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) on [Analytics Vidhya](https://www.analyticsvidhya.com/) using Python3.
 
 ## Problem Statement
